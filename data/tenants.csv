@@ -1,0 +1,5 @@
+tenant_id,name,house,expected_rent,reference
+1,John Mwangi,A1,25000,JM-A1
+2,Mary Wanjiku,A2,30000,MW-A2
+3,Ali Hassan,B1,20000,AH-B1
+4,Paul Odhiambo,C1,5000,KALEWA3536
